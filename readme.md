@@ -10,24 +10,24 @@
 
 #### 目录结构
 
-> │  app.py                                                        
-> │  Books-Recommender.ipynb
-> │  readme.md
-> │  requirements.txt
-> │  
-> ├─.ipynb_checkpoints
-> │      
-> │      
-> ├─artifacts
-> │      book_names.pkl
-> │      book_pivot.pkl
-> │      final_rating.pkl
-> │      model.pkl
-> │      
-> └─data
->         BX-Book-Ratings.csv
->         BX-Books.csv
->         BX-Users.csv      
+│  app.py                                                        
+│  Books-Recommender.ipynb
+│  readme.md
+│  requirements.txt
+│  
+├─.ipynb_checkpoints
+│      
+│      
+├─artifacts
+│      book_names.pkl
+│      book_pivot.pkl
+│      final_rating.pkl
+│      model.pkl
+│      
+└─data
+     BX-Book-Ratings.csv
+     BX-Books.csv
+     BX-Users.csv      
 
 #### 快速运行：
 
